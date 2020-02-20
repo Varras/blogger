@@ -27,8 +27,9 @@ gem 'jbuilder', '~> 2.5'
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
 
-# Jumpstart Lab Blogger 2 requested the below gem
-gem "paperclip"
+# Jumpstart Lab Blogger 2 requested the below gems
+gem 'paperclip'
+gem 'sorcery'
 
 # Use ActiveStorage variant
 # gem 'mini_magick', '~> 4.8'
